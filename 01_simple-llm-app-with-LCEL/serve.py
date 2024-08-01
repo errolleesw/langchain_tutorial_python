@@ -17,7 +17,7 @@ langchain_api_key = os.getenv("LANGCHAIN_API_KEY")
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
 # 1. Create prompt template
-system_template = "Translate the following into {language}:"
+system_template = "Translate the following from {source_language} to {target_language}:"
 prompt_template = ChatPromptTemplate.from_messages([
     ('system', system_template),
     ('user', '{text}')
