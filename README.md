@@ -9,3 +9,7 @@ This directory contains the code from Langchain tutorial found here - [Introduct
 ## 02 Build a chatbot
 
 [Build a Chatbot | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/tutorials/chatbot/)
+
+## 03 Vector stores and retrievers
+
+[Vector stores and retrievers | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/tutorials/retrievers/)
