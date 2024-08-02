@@ -13,3 +13,7 @@ This directory contains the code from Langchain tutorial found here - [Introduct
 ## 03 Vector stores and retrievers
 
 [Vector stores and retrievers | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/tutorials/retrievers/)
+
+## 04 Build an Agent
+
+[Build an Agent | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/tutorials/agents/)
